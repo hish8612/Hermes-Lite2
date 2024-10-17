@@ -61,7 +61,7 @@ parameter       DSIQ_FIFO_DEPTH = 16384;
 
 parameter 		FPGA_TYPE = 2'b10; //CL016 = 2'b01 ; CL025 = 2'b10
 localparam      VERSION_MAJOR = 8'd73;
-localparam      VERSION_MINOR = 8'd3;
+localparam      VERSION_MINOR = 8'd4;
 
 
 logic   [5:0]   cmd_addr;
